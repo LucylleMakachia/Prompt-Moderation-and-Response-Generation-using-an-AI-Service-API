@@ -6,6 +6,8 @@ It accepts a user prompt, applies input/output moderation, and generates creativ
 
 ---
 
+## Link to Google Colab - https://colab.research.google.com/drive/1yiczgSS8iW2l0m3yZ3DM4oqh3F8T63V0?usp=sharing 
+
 ## 🚀 Features
 
 ✅ Accepts **user input** from command line  
